@@ -1,2 +1,4 @@
 # UESTC_Computer_Composition_Experiment_2
 电子科技大学计算机组成原理实验二代码
+每一个Exp对应一次实验。
+Exp6是第5次实验的扩展测试数据，核心代码与Exp5一致。
